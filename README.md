@@ -8,7 +8,7 @@
 <img src="traventure-screenshot.png" alt="image" width="300">
 
 ## Demo video
-<video src="traventure-demo video.mov" autoplay loop muted playsinline width="300"></video>
+<video src="traventure-demo-video.mp4" autoplay loop muted playsinline width="300"></video>
 
 ## Author
 **Luckylinux**[Luckyverma05657@gmail.com]
