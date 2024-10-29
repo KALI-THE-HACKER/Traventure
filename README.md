@@ -1,4 +1,8 @@
-# <span style="font-family: 'Roboto', sans-serif;">This is text in the Roboto font.</span> - Your next travel adventure 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Pacifico&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap" rel="stylesheet">
+
+# <span style="font-family: 'Pacifico', cursive;">Traventure </span> - Your next travel adventure 
 
 ## Features
 * **Destination Cards:** Visually appealing cards display each destination with its name, a short description, a beautiful image, and a rating.
